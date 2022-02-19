@@ -1,1 +1,15 @@
 # Stock_market_web_Application
+# Review:-
+![Screenshot (672)](https://user-images.githubusercontent.com/64354225/154819856-d5054614-a82e-486e-bf60-f93b340ec4e3.png)
+![Screenshot (673)](https://user-images.githubusercontent.com/64354225/154819858-3f530970-a13c-4f1e-b0b8-763f572db9d9.png)
+![Screenshot (671)](https://user-images.githubusercontent.com/64354225/154819861-74c3ddf7-8768-4cbf-a95f-13aee3d50140.png)
+![Screenshot (670)](https://user-images.githubusercontent.com/64354225/154819864-e22a5591-4537-45a5-9b73-237719678448.png)
+![Screenshot (674)](https://user-images.githubusercontent.com/64354225/154819866-32a62fd7-0886-4607-baba-2c143c74b84e.png)
+![Screenshot (669)](https://user-images.githubusercontent.com/64354225/154819871-ce7b098c-9199-4e28-b08b-c3c5e01204f6.png)
+![Screenshot (668)](https://user-images.githubusercontent.com/64354225/154819876-eb068c52-3f5c-40e9-beb8-6ec37cc30647.png)
+![Screenshot (667)](https://user-images.githubusercontent.com/64354225/154819877-aa17bff1-1d55-4231-9c27-cf0c380422ea.png)
+![Screenshot (666)](https://user-images.githubusercontent.com/64354225/154819879-0506e822-cc8a-49c8-b3a7-d79e4167e814.png)
+![Screenshot (665)](https://user-images.githubusercontent.com/64354225/154819888-80faeca2-b516-410f-9ebd-f3dd5bac8895.png)
+![Screenshot (664)](https://user-images.githubusercontent.com/64354225/154819889-67e02612-832b-4809-8f65-31b1905b9c51.png)
+![Screenshot (663)](https://user-images.githubusercontent.com/64354225/154819892-8de53d80-5927-409b-82b8-e8a26ae6e3a6.png)
+![Screenshot (662)](https://user-images.githubusercontent.com/64354225/154819895-05511e6c-dd42-4264-acb9-301a5b5a4f5d.png)
